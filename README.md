@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/a2c50702-595f-4c77-9c92-14f52f8e64d3
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors-cpp.git
+   git clone https://github.com/labantch/rock-paper-scissors-cpp.git
    ```
 
 2. Compile the code using any C++ compiler:
